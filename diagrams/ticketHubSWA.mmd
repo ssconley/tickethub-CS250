@@ -1,9 +1,0 @@
-graph LR
-  UI <-->|HTTPS| API[API / Controllers]
-  API --> APP[Application Services]
-  APP --> DOMAIN[Domain Model]
-  APP --> REPOS[Repositories]
-  REPOS --> DB[(Relational DB)]
-  APP --> LOCK[Lock Manager]
-  LOCK --> REDIS[(Redis)]
-  APP --> EXT[Adapters: Payment, Email, SMS]
