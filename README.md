@@ -1,2 +1,4 @@
 "# tickethub-CS250" 
-Tickethub, an in-development ticketing system designed by Stephen Conley, Luis Villalon, and Angel Davila.
+Ticket Hub, an in-development ticketing system designed by Stephen Conley, Luis Villalon, and Angel Davila.
+
+(SDS included in section 4 of /docs/TicketHubSRS)
